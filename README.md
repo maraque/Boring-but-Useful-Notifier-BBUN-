@@ -44,3 +44,7 @@ tests/test_basic.py
 tests/test_advanced.py
 ```
 
+## Flowchart
+Work in progress for flow chart 
+![flowchart](BBUN.png)
+
