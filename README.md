@@ -35,9 +35,14 @@ README.rst
 LICENSE
 setup.py
 requirements.txt
-sample/__init__.py
-sample/core.py
-sample/helpers.py
+app.py
+classes/users.py
+classes/tickets.py
+classes/api.py
+classes/triggers.py
+bbun/__init__.py
+bbun/users_and_tickets.db
+bbun/datamanagement.py
 docs/conf.py
 docs/index.rst
 tests/test_basic.py
