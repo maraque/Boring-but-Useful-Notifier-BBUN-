@@ -36,13 +36,13 @@ LICENSE
 setup.py
 requirements.txt
 app.py
+__init__.py
 classes/users.py
 classes/tickets.py
 classes/api.py
 classes/triggers.py
-bbun/__init__.py
-bbun/users_and_tickets.db
-bbun/datamanagement.py
+db/users_and_tickets.db
+db/datamanagement.py
 docs/conf.py
 docs/index.rst
 tests/test_basic.py
