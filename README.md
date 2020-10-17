@@ -37,10 +37,11 @@ setup.py
 requirements.txt
 app.py
 __init__.py
-classes/users.py
-classes/tickets.py
-classes/api.py
-classes/triggers.py
+cli.py
+core/users.py
+core/tickets.py
+core/api.py
+core/triggers.py
 db/users_and_tickets.db
 db/datamanagement.py
 docs/conf.py
